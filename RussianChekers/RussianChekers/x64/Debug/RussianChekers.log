@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\header.h(30,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\header.h(30,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\header.h(63,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\header.h(63,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\main.cpp(117,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\main.cpp(117,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\main.cpp(140,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\main.cpp(140,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\main.cpp(187,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\main.cpp(187,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\main.cpp(210,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Heiby\Заказы\Петя Макаров\RussianChekers\RussianChekers\main.cpp(210,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  RussianChekers.vcxproj -> C:\Heiby\Заказы\Петя Макаров\RussianChekers\x64\Debug\RussianChekers.exe
